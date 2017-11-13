@@ -1,0 +1,15 @@
+[
+  {
+    "action": "talk",
+    "voiceName": "Conchita",
+    "text": "Hola, soy chonchita, la concha de la lora"
+  }
+]
+
+//[
+//  {
+//    "action": "talk",
+//    "voiceName": "Enrique",
+//    "text":  "Hola, soy Enrique, el enriqueto" 
+//  }
+//]
