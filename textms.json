@@ -1,3 +1,11 @@
+[
+  {
+    "action": "talk",
+    "voiceName": "Enrique",
+    "text": "Hola, mamita rica, para quien es todo es tan bueno amor?"
+  }
+]
+
 //[
 //  {
 //    "action": "talk",
@@ -5,11 +13,3 @@
 //    "text": "Hola, soy chonchita, la concha de la lora"
 //  }
 //]
-
-[
-  {
-    "action": "talk",
-    "voiceName": "Enrique",
-    "text":  "Hola, mamita ricaaaaaaa, pa quien es todo es tan bueno mamorrrrrrr" 
-  }
-]
