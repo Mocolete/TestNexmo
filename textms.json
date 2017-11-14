@@ -1,15 +1,15 @@
 [
   {
     "action": "talk",
-    "voiceName": "Enrique",
-    "text": "Hola, mamita rica, para quien es todo es tan bueno amor?"
+    "voiceName": "Conchita",
+    "text": "Hola, soy chonchita, la que le pica la chochita... Hola, soy chonchita, la que le pica la chochita... Hola, soy chonchita, la que le pica la chochita..."
   }
 ]
 
 //[
 //  {
 //    "action": "talk",
-//    "voiceName": "Conchita",
-//    "text": "Hola, soy chonchita, la concha de la lora"
+//    "voiceName": "Enrique",
+//    "text": "Hola, mamita rica, para quien es todo es tan bueno amor?"
 //  }
 //]
